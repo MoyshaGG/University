@@ -1,0 +1,60 @@
+C:\Users\dimaz\Desktop\struct\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\dimaz\Desktop\struct\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\dimaz\Desktop\struct\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\dimaz\Desktop\struct\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\dimaz\Desktop\struct\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\dimaz\Desktop\struct\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\dimaz\Desktop\struct\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\dimaz\Desktop\struct\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dimaz\Desktop\struct\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\dimaz\Desktop\struct\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\dimaz\Desktop\Стільниця\struct\6.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\dimaz\Desktop\Стільниця\struct\6.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\dimaz\Desktop\Стільниця\struct\6.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\dimaz\Desktop\Стільниця\struct\6.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\dimaz\Desktop\Стільниця\struct\6.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\dimaz\Desktop\Стільниця\struct\6.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\dimaz\Desktop\Стільниця\struct\6.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\dimaz\Desktop\Стільниця\struct\6.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\dimaz\Desktop\Стільниця\struct\6.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\dimaz\Desktop\Стільниця\struct\6.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Moysha\Desktop\6.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Moysha\Desktop\6.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Moysha\Desktop\6.1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Moysha\Desktop\6.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Moysha\Desktop\6.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Moysha\Desktop\6.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Moysha\Desktop\6.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Moysha\Desktop\6.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Moysha\Desktop\6.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Moysha\Desktop\6.1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Moysha\Desktop\6.1 — копия\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Moysha\Desktop\6.1 — копия\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Moysha\Desktop\6.1 — копия\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Moysha\Desktop\6.1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Moysha\Desktop\6.1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Moysha\Desktop\6.1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Moysha\Desktop\6.1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Moysha\Desktop\6.1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Moysha\Desktop\6.1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Moysha\Desktop\6.1 — копия\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Moysha\Desktop\LABA4--master\Варіанt11 ( А)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Moysha\Desktop\LABA4--master\Варіанt11 ( А)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Moysha\Desktop\LABA4--master\Варіанt11 ( А)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Moysha\Desktop\LABA4--master\Варіанt11 ( А)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Moysha\Desktop\LABA4--master\Варіанt11 ( А)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Moysha\Desktop\LABA4--master\Варіанt11 ( А)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Moysha\Desktop\LABA4--master\Варіанt11 ( А)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Moysha\Desktop\LABA4--master\Варіанt11 ( А)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Moysha\Desktop\LABA4--master\Варіанt11 ( А)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Moysha\Desktop\LABA4--master\Варіанt11 ( А)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Moysha\Desktop\Варіант11(Б)\Варіанt11 ( А)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Moysha\Desktop\Варіант11(Б)\Варіанt11 ( А)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Moysha\Desktop\Варіант11(Б)\Варіанt11 ( А)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Moysha\Desktop\Варіант11(Б)\Варіанt11 ( А)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Moysha\Desktop\Варіант11(Б)\Варіанt11 ( А)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Moysha\Desktop\Варіант11(Б)\Варіанt11 ( А)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Moysha\Desktop\Варіант11(Б)\Варіанt11 ( А)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Moysha\Desktop\Варіант11(Б)\Варіанt11 ( А)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Moysha\Desktop\Варіант11(Б)\Варіанt11 ( А)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Moysha\Desktop\Варіант11(Б)\Варіанt11 ( А)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
